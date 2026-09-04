@@ -5,3 +5,6 @@ body {
 .hero-title {
     font-size: 60px;
 }
+.hero-title {
+    color: red;
+}
