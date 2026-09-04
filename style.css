@@ -2,6 +2,6 @@ body {
     margin: 40px;
     font-family: Arial, sans-serif;
 }
-h1 {
+.hero-title {
     font-size: 60px;
 }
